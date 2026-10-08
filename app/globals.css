@@ -4,7 +4,7 @@
    and yellow (--lamp) is used ONLY for things that are lit or need attention.
    ========================================================================== */
 :root {
-  --paper: #ccd9af;          /* sage-tinted dusk paper */
+  --paper: #f8fcef;          /* sage-tinted dusk paper */
   --paper-2: #e1e5da;        /* raised surfaces */
   --ink: #1a201c;
   --ink-soft: #56615a;
